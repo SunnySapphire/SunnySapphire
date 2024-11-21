@@ -1,5 +1,5 @@
 - hello I am SunnySapphire
-- I’m currently trying to learn Java Script
+- I’m currently trying to learn Python
 - Pronouns: They/Them
 
 <!---
